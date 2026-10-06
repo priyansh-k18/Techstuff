@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Abhay Sharma",
+        "age": 24,
+        "salary": 650000
+    },
+    {
+        "name": "Aman Verma",
+        "age": 27,
+        "salary": 720000
+    },
+    {
+        "name": "Bharat Singh",
+        "age": 25,
+        "salary": 480000
+    },
+    {
+        "name": "Chetan Kumar",
+        "age": 23,
+        "salary": 550000
+    },
+    {
+        "name": "Dheeraj Sharma",
+        "age": 29,
+        "salary": 850000
+    },
+    {
+        "name": "Shubham Mishra",
+        "age": 26,
+        "salary": 510000
+    },
+    {
+        "name": "Ramesh Patel",
+        "age": 31,
+        "salary": 920000
+    },
+    {
+        "name": "Kamal Gupta",
+        "age": 28,
+        "salary": 475000
+    },
+    {
+        "name": "Rahul Mehta",
+        "age": 30,
+        "salary": 1250000
+    },
+    {
+        "name": "Suman Joshi",
+        "age": 22,
+        "salary": 505000
+    }
+]
